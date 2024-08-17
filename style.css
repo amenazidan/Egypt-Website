@@ -1,0 +1,47 @@
+body{
+    background-color: peachpuff;
+    font-family: "Helvetica", sans-serif;
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: gray;
+    font-family: "Times New Roman", serif;
+}
+nav {
+  padding: 16px;
+  background-color: sandybrown;
+  border-style: solid;
+  border-color: seashell;
+  border-width: 2px;
+  border-radius: 10px;
+}
+h1{
+  margin: 20px;
+}
+nav ul{
+  
+   
+ 
+  
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: PapayaWhip;
+  }
+  nav ul li a {
+    text-decoration: none;
+    color: olive;
+  }
+  .meal h4{
+    font-size: 40px;
+}
+.meal p{
+    font-size: 24px;
+}
+.meal img{
+    width: 400px;
+}
